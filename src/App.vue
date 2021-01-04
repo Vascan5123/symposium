@@ -8,8 +8,8 @@
           &#9733; Symposium of Logic and Artificial Intelligence, January 13-14,
           2021 &#9733;
         </v-card-title>
-        <v-card-title
-          class="justify-center text-center display-1 mb-8 white--text font-weight-bold word_break"
+        <v-card-title style="font-size: 2rem !important;"
+          class="justify-center text-center display-1 mb-8 white--text word_break"
         >
           Chicago-Chisinau-Iasi
         </v-card-title>
