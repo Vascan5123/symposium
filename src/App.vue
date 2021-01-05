@@ -11,7 +11,7 @@
         <v-card-title style="font-size: 2rem !important;"
           class="justify-center text-center display-1 mb-8 white--text word_break"
         >
-          Chicago-Chisinau-Iasi
+          Natchitoches-Chisinau-Iasi
         </v-card-title>
         <v-row justify="center" class="ma-0">
           <v-card class="rounded-xl pa-2" height="100%" elevation="5">
@@ -21,19 +21,16 @@
             <v-card-text
               class="text-subtitle-1 grey--text text--darken-4 text1 px-md-10"
             >
-              <v-row class="ma-0">
                 <h3>Organizers:</h3>
-                <div class="px-2">
-                  <p>Northeastern University in Chicago, USA</p>
-                  <p>Alexandru Ioan Cuza University of Iasi, Romania</p>
+                <div class="mb-8">
+                  <p>Northeastern State University, Natchitoches, USA</p>
+                  <p>“Alexandru Ioan Cuza” University of Iasi, Romania</p>
                   <p>
-                    Vladimir Andrunachievici Institute of Math. and Comp.
-                    Science, Chisinau, Moldova
+                    “Vladimir Andrunachievici” Institute of Math. and Computer Sci, Chisinau, Moldova
                   </p>
                 </div>
-              </v-row>
-              <h3 class="mb-4">Schedule:</h3>
-              <p class="pl-md-10 text-subtitle-2">January 13, 2021</p>
+              <h3 class="mb-8">Schedule:</h3>
+              <p class="text-subtitle-2 mb-4">January 13, 2021</p>
               <p>
                 Alexei Muravitscky. <i>Nonmonotonic Consequence Relations</i>
               </p>
@@ -45,24 +42,27 @@
                 </i>
               </p>
 
-              <p>Andrei Arusoaie: <i>Certification in Matching Logic</i></p>
+              
               <p>
                 Ioachim Drugus.
                 <i>Towards a Non-associative Model of Language</i>
               </p>
               <p>
-                Talks of the participants in Romanian and Moldovan Logic and
-                Artificial Intelligence Prizes Competition.
+                Tudor Bumbu and Iulian Cernei. 
+				<i>Ensuring Access to the Moldovan Legacy using Elements of Artificial Intelligence</i>
               </p>
-              <p class="pl-md-10 text-subtitle-2">January 14, 2021</p>
+              <p class="text-subtitle-2 mt-8 mb-4">January 14, 2021</p>
               <p>
-                Talks of the participants in Romanian and Moldovan Logic and
-                Artificial Intelligence Prizes Competition
+                Olesea Caftanatov: <i>State of the Art: Augmented reality Business Cards</i>
               </p>
-              <p>Announcement of winners</p>
+				<p>
+                Stefan Stratulat, Tudor Bumbu. 
+				<i>A Disambiguation Model for Natural Language Processing</i>
+              </p>
+			<p>Andrei Arusoaie: <i>Certification in Matching Logic</i></p>
+              <p><i>Announcing to the winners of Moldovan and Romanian Prizes on Logic and Artificial Intelligence</i></p>
               <p>
-                Martin Davis. <i>Algorithm, Equation, and Logic</i> (around 4 pm
-                Chicago time)
+                Martin Davis. <i>Algorithm, Equation, and Logic</i>
               </p>
             </v-card-text>
           </v-card>
@@ -115,5 +115,8 @@ export default {
 }
 #app {
   background-color: #f3652f;
+}
+.v-application p {
+  margin-bottom: 0px;
 }
 </style>
