@@ -32,7 +32,7 @@
               <h3 class="mb-8">Schedule:</h3>
               <p class="text-subtitle-2 mb-4">January 13, 2021</p>
               <p>
-                Alexei Muravitscky. <i>Nonmonotonic Consequence Relations</i>
+                Alexei Muravitscky. <i>Nonmonotonic Consequence Relations: A Case Study</i>
               </p>
               <p>
                 Stefan-Claudiu Susan:
@@ -60,10 +60,10 @@
 				<i>A Disambiguation Model for Natural Language Processing</i>
               </p>
 			<p>Andrei Arusoaie: <i>Certification in Matching Logic</i></p>
-              <p><i>Announcing to the winners of Moldovan and Romanian Prizes on Logic and Artificial Intelligence</i></p>
               <p>
                 Martin Davis. <i>Algorithm, Equation, and Logic</i>
               </p>
+				<p class="mt-4"><i>Announcing the winners of Moldovan and Romanian Prizes on Logic and Artificial Intelligence competition.</i></p>
             </v-card-text>
           </v-card>
           <!-- <v-col cols="12" sm="6" md="4">
