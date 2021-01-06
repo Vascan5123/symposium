@@ -59,6 +59,9 @@
                 Stefan Stratulat, Tudor Bumbu. 
 				<i>A Disambiguation Model for Natural Language Processing</i>
               </p>
+			<p>Elena Kuznetsov, Eugene Kuznetsov. 
+				<i>Generalized boolean algebras, boolean rings and extensional algebras</i>
+			</p>
 			<p>Andrei Arusoaie: <i>Certification in Matching Logic</i></p>
               <p>
                 Martin Davis. <i>Algorithm, Equation, and Logic</i>
